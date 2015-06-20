@@ -1,0 +1,4 @@
+/*Reame file help you to know How to say hello world
+  on different lenguage like c#, javascript, java, etc
+  writing by thejandj*/
+
