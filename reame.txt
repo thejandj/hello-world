@@ -2,3 +2,7 @@
   on different lenguage like c#, javascript, java, etc
   writing by thejandj*/
 
+<script>
+document.write("Hello World");
+</script>
+
