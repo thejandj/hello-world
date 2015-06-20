@@ -2,7 +2,16 @@
   on different lenguage like c#, javascript, java, etc
   writing by thejandj*/
 
+/*Javascript*/
+
 <script>
 document.write("Hello World");
 </script>
 
+
+/*c# csharp*/
+
+static void main(string arg[]){
+Console.WriteLine("Hello World");
+
+}
